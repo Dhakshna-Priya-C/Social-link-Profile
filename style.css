@@ -78,7 +78,7 @@ h4{
 .attribution{
     position: absolute;
     top: 95vh;
-    /* color: white; */
+    color: white;
 }
 
 @media (max-width:1100px){
